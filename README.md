@@ -19,3 +19,35 @@ This project demonstrates my skills in Java-based full-stack development, API in
 ⚡ Fast Performance – Built on Spring Boot with efficient API calls and optimized backend logic.
 
 🔔 Weather Alerts – Provides timely weather insights that can help users prepare for different conditions.
+
+## Tech Stack
+
+Backend: Java, Spring Boot, Spring Data JPA
+
+Frontend: Thymeleaf, HTML, CSS
+
+Database: H2 (In-Memory Database)
+
+API Integration: OpenWeatherMap API
+
+Tools: IntelliJ IDEA, Postman, Git
+
+## Learning Outcomes
+
+Learned how to integrate REST APIs into a Spring Boot application.
+
+Worked with Spring Data JPA for database persistence and data retrieval.
+
+Improved skills in designing responsive front-end templates with Thymeleaf.
+
+Gained experience in building a full-stack project from backend to frontend.
+
+## 🔮 Future Enhancements
+
+Add user authentication to save favorite cities.
+
+Provide graphical weather trends using chart libraries.
+
+Extend database from H2 to MySQL/PostgreSQL for production use.
+
+Implement email/SMS notifications for severe weather alerts.
